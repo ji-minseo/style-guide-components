@@ -4,9 +4,9 @@ import { render } from '@testing-library/react';
 import "./Row.css";
 
 function Row ({title, contents, classname}) {
-    return (<div className ="movies">
+    return (<div className ="row">
         
-        <p className="movies__title fs-h2 fw-light">{title}</p>
+        <p className="ff-karla fs-p text-grey fw-light row__title">{title}</p>
         <div className={classname}>{contents}</div>
         
         </div>);

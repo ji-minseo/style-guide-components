@@ -1,16 +1,10 @@
-.movies {
-    /* display: flex;
-    justify-content: space-between; */
-
+.row {
+    padding: 0 24px;
+    display: flex;
+    align-items: center;
+    height: 85px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.09);
 }
-h2 {
-    margin-bottom: 100px;
-    margin-right: 100px;
-}
-
-.movies__thumb {
-    width : 200px;
-    background-color: black;
-    height: 400px;
-    margin-bottom: 100px;
+.row__title {
+    width: 150px;
 }
