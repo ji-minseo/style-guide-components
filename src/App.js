@@ -10,7 +10,7 @@ function App () {
       <section className ="mg-big">
       <h1 className="fs-h1 fw-bold">Design Systems &amp; Components</h1>
 
-        <h2 className ="fs-h2 fw-bold"><span className="text-primary">CSS Files</span> for<select class ="selected fs-h2 fw-bold"><option selected>01lany</option><option>02axis</option></select>Style Guide &amp; Components</h2>
+        <h2 className ="fs-h2 fw-bold"><span className="text-primary">CSS Files</span> for<select class ="selected fs-h2 fw-bold"><option selected>01lany</option><option>02axis</option></select></h2>
         
       
       </section>
